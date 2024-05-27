@@ -2,10 +2,10 @@
 Presenting AYURHEAL - An Ayurvedic Health Chatbot that merges Ayurvedic principles with AI technology to provide personalized health solutions.
 
 # Table of Contents
-Description
-Installation
-Usage
-Features
+- Description
+- Installation
+- Usage
+- Features
 
 # Description
 AyurHeal is an Ayurvedic chatbot designed to offer personalized Ayurvedic remedies tailored to your unique symptoms. Discover natural solutions to modern health concerns, all guided by ancient wisdom and delivered through an intuitive, user-friendly interface. Embrace a healthier you with AyurHeal!
@@ -14,17 +14,15 @@ AyurHeal is an Ayurvedic chatbot designed to offer personalized Ayurvedic remedi
 Prerequisites
 A web browser (Chrome, Firefox, Safari, etc.)
 An active internet connection
-Steps
+
+# Steps
+
 Clone the repository:
-
-sh
-Copy code
 git clone https://github.com/your-username/ayurheal.git
-Navigate to the project directory:
 
-sh
-Copy code
+Navigate to the project directory:
 cd ayurheal
+
 Open index.html in your preferred web browser.
 
 # Usage
