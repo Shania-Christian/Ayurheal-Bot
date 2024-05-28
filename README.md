@@ -1,4 +1,4 @@
-# AyurHeal Bot
+# AyurHeal Bot 🌼
 
 AyurHeal is an innovative chatbot designed to offer personalized Ayurvedic remedies based on individual symptoms. Integrates centuries-old Ayurvedic knowledge with modern technology to provide tailored advice based on user-specific symptoms through a user-friendly interface.
 
