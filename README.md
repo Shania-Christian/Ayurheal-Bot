@@ -15,6 +15,8 @@ Challenges and Future Features: Ensuring the accuracy of Ayurvedic recommendatio
 - JavaScript
 - Shery.js
 - Botpress
+
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
 
 # ⚡ Installation
