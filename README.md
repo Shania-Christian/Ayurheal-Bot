@@ -14,6 +14,9 @@ AyurHeal is an innovative chatbot designed to offer personalized Ayurvedic remed
 2.  Navigate to the project directory.
 
 # Usage
+
+![image](https://github.com/Shania-Christian/Ayurheal-Bot/assets/155638124/6a565a5b-5aa3-4d12-bf4b-9021c495c4d9)
+
 - Open index.html in your browser.
 - Explore the home page to understand more about AyurHeal.
 - Navigate through the menu to access sections like Home, About, and Contact.
