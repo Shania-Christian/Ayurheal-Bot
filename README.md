@@ -10,11 +10,11 @@ The innovation of AyurHeal stemmed from a personal need. While searching for Ayu
 Challenges and Future Features: Ensuring the accuracy of Ayurvedic recommendations, user engagement, and seamless interaction. Future features include personalized health journeys, broader database integration of Ayurvedic remedies and mobile application development.
 
 # ⚒️ Tech Stack
-HTML
-CSS
-JavaScript
-Shery.js
-Botpress
+- HTML
+- CSS
+- JavaScript
+- Shery.js
+- Botpress
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
 
 # ⚡ Installation
