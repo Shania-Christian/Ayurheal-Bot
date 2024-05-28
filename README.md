@@ -4,7 +4,16 @@ AyurHeal is an innovative chatbot designed to offer personalized Ayurvedic remed
 
 # About The Project
 
-## Installation
+# ❓ Why AyurHeal?
+The innovation of AyurHeal stemmed from a personal need. While searching for Ayurvedic remedies, I found it challenging to find reliable sources. This project was born from the desire to ensure that the valuable knowledge of Ayurveda does not become scarce in today's modern world. AyurHeal aims to make Ayurvedic wisdom accessible to everyone, anytime, and anywhere.
+
+Challenges and Future Features: Ensuring the accuracy of Ayurvedic recommendations, user engagement, and seamless interaction. Future features include personalized health journeys, broader database integration of Ayurvedic remedies and mobile application development.
+
+# ⚒️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
+
+# ⚡ Installation
 
 1. Clone the repository:
 
@@ -19,5 +28,4 @@ AyurHeal is an innovative chatbot designed to offer personalized Ayurvedic remed
 
 - Open index.html in your browser.
 - Explore the home page to understand more about AyurHeal.
-- Navigate through the menu to access sections like Home, About, and Contact.
 - Use the chatbot to receive personalized Ayurvedic recommendations.
